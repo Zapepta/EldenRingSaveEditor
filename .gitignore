@@ -1,0 +1,9 @@
+*.exe
+EldenRingSaveEditor
+
+*.sl2
+*.co2
+*.bak*
+
+.vscode/
+.idea/
